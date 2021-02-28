@@ -1,0 +1,36 @@
+.members-form {
+  display: flex;
+  justify-content: center;
+}
+
+.members-form__input {
+  width: 229px;
+  height: 42px;
+  margin-right: 10px;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid #f72464;
+  box-sizing: border-box;
+  border-radius: 4px;
+
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.members-form__submit {
+  width: 134px;
+  height: 42px;
+  background: #f72464;
+  border-radius: 4px;
+  text-align: center;
+  border: none;
+
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  line-height: 42px;
+  text-align: center;
+  color: #ffffff;
+
+  cursor: pointer;
+}
