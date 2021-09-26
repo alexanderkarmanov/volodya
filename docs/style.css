@@ -332,9 +332,9 @@ body {
   transition: 0.2s ease-in;
 }
 
-.product:hover {
+/* .product:hover {
   opacity: 0.7;
-}
+} */
 
 .products__photo {
   margin-bottom: 12px;
